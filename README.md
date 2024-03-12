@@ -3,9 +3,9 @@
 ![alexCarrinho](https://github.com/arthur-pereira-silva/arthur-pereira-silva/blob/main/alexCarrinho.gif)
 
 ##### - :brain: Making a Emotion Classifier with Python and A.I.
-##### - :computer: I´m learning Python, React, Java, JavaScript, C#, Dotnet, HTML, CSS  
+##### - :computer: I´m learning Java, React, Spring Framework, Docker, Linux, JavaScript, Dotnet, HTML, CSS
 ##### - :incoming_envelope: Looking for internship in the RMC (Região Metropolitana de Campinas) or Home office
-##### - :pushpin: My links: 
+##### - :pushpin: Fun fact: i like potatoes
 
 <!--
 **arthur-pereira-silva/arthur-pereira-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
